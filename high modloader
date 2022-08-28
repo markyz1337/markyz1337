@@ -7,18 +7,12 @@ IgnoreAllMods = false
 Parents = $None
 
 [Profiles.Default.Priority]
-256x256 = 53
-512x512 = 54
-texturas alternativas = 54
 
 [Profiles.Default.IgnoreFiles]
 
 [Profiles.Default.IgnoreMods]
-256x256
-512x512
 _ignore
-lod vegetation
-neaone
+bsor - five stars
 
 [Profiles.Default.IncludeMods]
 
