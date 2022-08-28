@@ -26,3 +26,5 @@ _ignore
 
 [Profiles.Default.ExclusiveMods]
 ; Put wildcard to mods that should be loaded ONLY on this profile
+
+; high
